@@ -1,2 +1,2 @@
 # webmedia3
-Version: 37.6
+Version: 37.7
